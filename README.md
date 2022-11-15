@@ -6,7 +6,9 @@ This repository contains the solutions to the exercises proposed in
 
 ## Credits and References:
 https://botlnec.github.io/islp/
+
 https://github.com/a-martyn/ISL-python
+
 https://github.com/qx0731/Sharing_ISL_python
 
 

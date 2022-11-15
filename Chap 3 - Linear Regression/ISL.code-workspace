@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "ISL",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"jupyter.kernels.filter": [
+			{
+				"path": "/opt/homebrew/bin/python3.9",
+				"type": "pythonEnvironment"
+			},
+			{
+				"path": "/usr/bin/python3",
+				"type": "pythonEnvironment"
+			}
+		]
+	}
+}
